@@ -1,0 +1,9 @@
+Lib/
+Include/
+share/
+pyvenv.cfg
+__pycache__/
+*.pyc
+.env
+*.pyd
+*.dll
